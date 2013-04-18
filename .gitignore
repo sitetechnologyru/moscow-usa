@@ -1,3 +1,10 @@
+# config files
+configuration.php
+
+# images
+*.jpg
+*.gif
+
 # built application files
 *.apk
 *.ap_
